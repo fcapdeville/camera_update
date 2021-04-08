@@ -1,0 +1,10 @@
+git donde estan todos los archivos:
+https://github.com/fcapdeville/camera_update
+
+
+Test_1:
+	- Exactly the same file that was sent by Santini, Augusto.
+	- File is not compressed.
+	- Confirm that a file can be created.
+	- Confirm that a file not compressed can be used.
+
