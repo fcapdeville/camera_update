@@ -8,3 +8,10 @@ Test_1:
 	- Confirm that a file can be created.
 	- Confirm that a file not compressed can be used.
 
+Test_1:
+	- New firmware 0.1.13
+	- File is not compressed.
+	- Confirm that a file can be created.
+	- Confirm that a file not compressed can be used.
+
+
