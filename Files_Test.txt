@@ -14,5 +14,6 @@ Test_2:
 	- Confirm that a file can be created.
 	- Confirm that a file not compressed can be used.
 
-Test_3:
-	- Firmware version: 0.1.14
+update_v0.1.14:
+	- Firmware version: 0.1.14.
+	- Can be updated even with different config.json files.
