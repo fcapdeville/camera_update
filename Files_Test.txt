@@ -8,10 +8,11 @@ Test_1:
 	- Confirm that a file can be created.
 	- Confirm that a file not compressed can be used.
 
-Test_1:
+Test_2:
 	- New firmware 0.1.13
 	- File is not compressed.
 	- Confirm that a file can be created.
 	- Confirm that a file not compressed can be used.
 
-
+Test_3:
+	- Firmware version: 0.1.14
