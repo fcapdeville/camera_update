@@ -17,3 +17,9 @@ Test_2:
 update_v0.1.14:
 	- Firmware version: 0.1.14.
 	- Can be updated even with different config.json files.
+
+update_v0_1_14_dev:
+	- Firmware version. 0.1.14.
+	- Can be updated even with different config.json files.
+	- This update is for users with camera on dev.
+
