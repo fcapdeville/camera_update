@@ -23,3 +23,22 @@ update_v0_1_14_dev:
 	- Can be updated even with different config.json files.
 	- This update is for users with camera on dev.
 
+update_v0_1_15_dev:
+	- Firmware version. 0.1.15.
+	- Can be updated even with different config.json files.
+	- This update is for users with camera on dev.
+
+update_v0_1_15_qa:
+	- Firmware version. 0.1.15.
+	- Can be updated even with different config.json files.
+	- This update is for users with camera on qa.
+
+update_v0_1_16_qa:
+        - Firmware version. 0.1.16.
+        - Can be updated even with different config.json files.
+        - This update is for users with camera on qa.
+
+update_v0_1_16_dev:
+        - Firmware version. 0.1.16.
+        - Can be updated even with different config.json files.
+        - This update is for users with camera on dev.
