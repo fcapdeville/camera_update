@@ -43,12 +43,12 @@ update_v0_1_16_dev:
         - Can be updated even with different config.json files.
         - This update is for users with camera on dev.
 
-update_v0_1_17_qa:
+qa_v0_1_17.zip:
         - Firmware version. 0.1.17.
         - Can be updated even with different config.json files.
         - This update is for users with camera on qa.
 
-update_v0_1_17_dev:
+dev_v0_1_17.zip:
         - Firmware version. 0.1.17.
         - Can be updated even with different config.json files.
         - This update is for users with camera on dev.
