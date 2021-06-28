@@ -14,46 +14,61 @@ Test_2:
 	- Confirm that a file can be created.
 	- Confirm that a file not compressed can be used.
 
-update_v0.1.14:
+---------------------------------------------------------------------
+
+dev_v0_1_14.zip:
 	- Firmware version: 0.1.14.
-	- Can be updated even with different config.json files.
+	- environment: dev.
 
-update_v0_1_14_dev:
-	- Firmware version. 0.1.14.
-	- Can be updated even with different config.json files.
-	- This update is for users with camera on dev.
+qa_v0_1_14.zip:
+        - Firmware version: 0.1.14.
+        - environment: qa.
 
-update_v0_1_15_dev:
-	- Firmware version. 0.1.15.
-	- Can be updated even with different config.json files.
-	- This update is for users with camera on dev.
+---------------------------------------------------------------------
 
-update_v0_1_15_qa:
-	- Firmware version. 0.1.15.
-	- Can be updated even with different config.json files.
-	- This update is for users with camera on qa.
+dev_v0_1_15.zip:
+        - Firmware version: 0.1.15.
+        - environment: dev.
 
-update_v0_1_16_qa:
-        - Firmware version. 0.1.16.
-        - Can be updated even with different config.json files.
-        - This update is for users with camera on qa.
+qa_v0_1_15.zip:
+        - Firmware version: 0.1.15.
+        - environment: qa.
 
-update_v0_1_16_dev:
-        - Firmware version. 0.1.16.
-        - Can be updated even with different config.json files.
-        - This update is for users with camera on dev.
+---------------------------------------------------------------------
 
-qa_v0_1_17.zip:
-        - Firmware version. 0.1.17.
-        - Can be updated even with different config.json files.
-        - This update is for users with camera on qa.
+dev_v0_1_16.zip:
+        - Firmware version: 0.1.16.
+        - environment: dev.
+
+qa_v0_1_16.zip:
+        - Firmware version: 0.1.16.
+        - environment: qa.
+
+qa_v0_1_16_sd.zip:
+        - Firmware version: 0.1.16.
+        - environment: ist.
+	- Firmware version with video quality in sd.
+
+ist_v0_1_16.zip:
+        - Firmware version: 0.1.16.
+        - environment: ist.
+
+---------------------------------------------------------------------
 
 dev_v0_1_17.zip:
-        - Firmware version. 0.1.17.
-        - Can be updated even with different config.json files.
-        - This update is for users with camera on dev.
+        - Firmware version: 0.1.17.
+        - environment: dev.
+
+qa_v0_1_17.zip:
+        - Firmware version: 0.1.17.
+        - environment: qa.
 
 ist_v0_1_17.zip:
-        - Firmware version. 0.1.17.
-        - Can be updated even with different config.json files.
-        - This update is for users with camera on dev.
+        - Firmware version: 0.1.17.
+        - environment: ist.
+
+---------------------------------------------------------------------
+
+dev_v0_1_18.zip:
+        - Firmware version: 0.1.18.
+        - environment: dev.
