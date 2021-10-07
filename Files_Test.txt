@@ -1,4 +1,5 @@
-git donde estan todos los archivos:
+git donde estan todos los archivos
+Versiones 0_1_XX deprecated:
 https://github.com/fcapdeville/camera_update
 
 
